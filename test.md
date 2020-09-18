@@ -1,5 +1,5 @@
 # Hola
 
-![image info](pictures/image.png)
+![sky](pictures/image.png)
 
 I like to move it move it
