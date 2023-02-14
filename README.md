@@ -1,4 +1,4 @@
-# Hola
+# Hi
 
 ![sky soemthing](pictures/image1.png)
 
