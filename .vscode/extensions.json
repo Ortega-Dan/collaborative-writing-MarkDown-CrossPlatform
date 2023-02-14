@@ -1,0 +1,7 @@
+{
+    // this are the needed extensions for code completion, formatting, and exporting
+    "recommendations": [
+        "yzhang.markdown-all-in-one",
+        "yzane.markdown-pdf"
+    ]
+}
