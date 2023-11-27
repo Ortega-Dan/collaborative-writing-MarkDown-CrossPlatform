@@ -24,3 +24,9 @@ Testing it out
 ## Checklist
 - [ ] to-do
 - [x] done
+
+
+
+:moyai:
+You can also use emoji and pick them up from:
+https://github-emoji-picker.rickstaa.dev/
