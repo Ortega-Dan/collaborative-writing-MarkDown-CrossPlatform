@@ -1,15 +1,15 @@
 # Hi
 
-![sky soemthing](pictures/image1.png)
+![sky something](pictures/image1.png)  
 
-Testing it out
+Testing it out  
 
 
-1. Item One
-2. Item Two
-3. Item Three
-   1. Item Three A
-   2. Item Three B
+1. Item One  
+2. Item Two  
+3. Item Three  
+   - Item Three A  
+   - Item Three B  
    
 
 <!-- TODO Riley this is fixed -->
@@ -22,11 +22,11 @@ Testing it out
 
 
 ## Checklist
-- [ ] to-do
-- [x] done
+- [ ] to-do  
+- [x] done  
 
 
 
-:moyai:
-You can also use emoji and pick them up from:
-https://github-emoji-picker.rickstaa.dev/
+:moyai:  
+You can also use emoji and pick them up from:  
+https://github-emoji-picker.rickstaa.dev/  
